@@ -1,0 +1,12 @@
+Steps to run Smart Contract on Remix IDE:
+
+1.	Open Remix IDE on any of your browsers, select on the New File and 
+    click on Solidity to choose the environment.
+2.	Under contracts folder create a new Solidity file KYC.sol
+3.	Write the Smart contract code in the KYC.sol file, and 
+    click the Compile button under the Compiler window to compile the contract. 
+4.	To execute the code, click on the Deploy button under Deploy and Run Transactions window. 
+5.	After deploying the code click on the method calls under the drop-down of deployed 
+    contracts to run the program, and for output, check to click on the drop-down on the console.
+6.	For debugging click on the Debug button corresponding to the method call in the console. 
+    Here you can check each function call and variable assignments.
